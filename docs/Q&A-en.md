@@ -1,11 +1,13 @@
 
+English | [中文](./Q&A-zh.md)
+
 ## Enter Key Combinations
 
-| Modifiers | Key   | will ...   |
+| Modifiers | Key   | Result     |
 | --------- | ----- | ---------- |
-|           | Enter | submit     |
-| ['Mod']   | Enter | submit     |
-| ['Shift'] | Enter | split [^1] |
+|           | Enter | Submit     |
+| ['Mod']   | Enter | Submit     |
+| ['Shift'] | Enter | Split [^1] |
 
 [^1]: Pressing in the middle of a heading submits the content before the cursor as a new heading, and moves the rest to the next line.
 
@@ -13,7 +15,7 @@
 
 - The plugin should ensure the safety of data processing using the official method. Requirements that involve separate replication of data processing won’t be added.
 
-- Triggered on cursor movement to a heading line: Someone wrote a version [t86850#9](https://forum.obsidian.md/t/mini-plugin-update-internal-links-when-renaming-a-heading/86850/9), while some users reported that this method had certain problems [t75847#7](https://forum.obsidian.md/t/always-run-rename-this-heading-command-when-a-heading-is-clicked/75847/7), for your reference.
+- Navigation-triggered renaming: Someone wrote a version [t86850#9](https://forum.obsidian.md/t/mini-plugin-update-internal-links-when-renaming-a-heading/86850/9), while some users reported that this method had certain problems [t75847#7](https://forum.obsidian.md/t/always-run-rename-this-heading-command-when-a-heading-is-clicked/75847/7), for your reference.
 
 ## 20241017
 

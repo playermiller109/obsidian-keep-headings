@@ -1,8 +1,10 @@
 
+[English](./Q&A-en.md) | 中文
+
 ## Enter 及相关组合键
 
-| Modifiers | Key   | will ... |
-| --------- | ----- | -------- |
+| Modifiers | Key   | Result  |
+| --------- | ----- | ------- |
 |           | Enter | 提交      |
 | ['Mod']   | Enter | 提交      |
 | ['Shift'] | Enter | 拆分 [^1] |

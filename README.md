@@ -38,4 +38,4 @@ Press Esc to cancel.
 
 For first-time use, please switch to another note or restart the app once.
 
-More Q&A: [English](./docs/Q&A-en.md) | [中文](./docs/Q&A-zh.md)
+[More Q&A](./docs/Q&A-en.md)

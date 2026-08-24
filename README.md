@@ -1,9 +1,5 @@
-# Keep Headings
 
-> [!IMPORTANT]
-> The plugin was rejected by the official review some time back. I chose this approach, not due to technical constraints, but as an effort towards the closest possible future-proof alignment with the official behavior, to prevent user lock-in.
->
-> While I am fine with the official updates, the same may not hold true for users during transitions. I am sharing this and you can make an informed choice.
+> The plugin began as an original proof of concept to replicate the CM editor, converging with broader community solutions over time.
 
 <span id="en-intro">English</span> | [中文](#zh-intro)
 
@@ -29,7 +25,7 @@ Click to rename. Click outside or press Ctrl + Enter to submit. Esc to cancel.
 
 - No triggering on right-click or click with Ctrl or Alt key. For management.
 - Data processing fully relies on the official “Rename this heading” command. Safe.
-- If you accidentally submit an empty heading, nothing will change, though a default “Update link” notice may appear.
+- Submitting an empty heading will change nothing, though a default “Update” notice may appear.
 
 For first-time use, please switch to another note or restart the app once.
 

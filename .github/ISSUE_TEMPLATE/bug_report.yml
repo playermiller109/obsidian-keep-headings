@@ -5,8 +5,8 @@ body:
     attributes:
       label: Check before the report
       description: |
-        If you know Chinese 请先参考 [故障排查指导 Troubleshooting Guide](https://forum-zh.obsidian.md/t/topic/27879/1)
-        <br>Else, you can refer to [About the Bug reports category - Obsidian Forum](https://forum.obsidian.md/t/about-the-bug-reports-category/24/11)
+        Please go through the hands-on [故障排查指导 Troubleshooting Guide](https://forum-zh.obsidian.md/t/topic/27879/1) from the Chinese Forum
+        <br>or alternatively check [About the Bug reports category - Obsidian Forum](https://forum.obsidian.md/t/about-the-bug-reports-category/24/11)
         <br>*On desktop, open the sandbox vault (Open Help > Sandbox Vault, this can be accessed from the command palette or the lower left ribbon) and see if you can reproduce the issue.*
       options:
         - label: I have verified that I am on the latest version of the plugin.
